@@ -1,0 +1,14 @@
+# Lite multi-agent worktree bundle (VibeCode)
+bundle:
+  name: Lite Worktree Agile
+  icon: 🌲
+  description: VibeCode-branded multi-agent team for worktree-first agile execution (PM, frontend, backend, QA).
+agents:
+  - pm
+  - frontend-dev
+  - backend-dev
+  - qa
+workflows:
+  - lite-init-project
+  - lite-feature-dev
+  - lite-qa-regression
