@@ -62,6 +62,12 @@ AI-powered creative thinking and brainstorming.
 
 - **[CIS Module README](../src/modules/cis/README.md)** - Module overview and workflows
 
+### Lite Module (Multi-Agent Worktree Agile)
+
+Streamlined worktree-first agile framework designed for greenfield projects.
+
+- **[Lite Module Design](./lite-multi-agent-worktree.md)** - Objectives, workflows, and standard project structure for the worktree-based multi-agent pipeline
+
 ---
 
 ## 🖥️ IDE-Specific Guides
